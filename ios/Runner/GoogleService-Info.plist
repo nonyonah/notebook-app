@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>826878735001-9fvmisoh92oro5incu1481e6r99820a7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.826878735001-9fvmisoh92oro5incu1481e6r99820a7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwiWjUirsjtYgcqwMELNQy61s73lEr7_E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>826878735001</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.notebookApp</string>
+	<key>PROJECT_ID</key>
+	<string>notebook-app-60b97</string>
+	<key>STORAGE_BUCKET</key>
+	<string>notebook-app-60b97.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:826878735001:ios:79faf7368791cc48167e08</string>
+	<key>DATABASE_URL</key>
+	<string>https://notebook-app-60b97-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
